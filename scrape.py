@@ -15,6 +15,12 @@
 # git add .
 # git commit -m "Finish project"
 
+##################
+# 1. change the code.
+# 2. git add .
+# 3. git commit -m "Your message"
+# 4. git push
+#####################
 
 import requests 
 from bs4 import BeautifulSoup 
