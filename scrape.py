@@ -4,14 +4,16 @@
 # => parse html
 
 
+# First Time
 # Install git
 # git config --global user.name "Naincy Ghale"
 # git config --global user.email "naincy.2n2k@gmail.com"
+# create respiratiry in github
+# copypaste git cide from github
+
+# Always
 # git add .
 # git commit -m "Finish project"
-
-
-
 
 
 import requests 
