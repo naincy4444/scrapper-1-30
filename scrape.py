@@ -1,3 +1,19 @@
+# python -m pip install requests
+# => get data from web(html, json, xml)
+# python -m pip install beautifulsoup4
+# => parse html
+
+
+# Install git
+# git config --global user.name "Naincy Ghale"
+# git config --global user.email "naincy.2n2k@gmail.com"
+# git add .
+# git commit -m "Finish project"
+
+
+
+
+
 import requests 
 from bs4 import BeautifulSoup 
 
